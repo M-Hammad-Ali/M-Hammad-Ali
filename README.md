@@ -59,8 +59,10 @@
 [<img align="left" alt="bilgehangecici | LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>][linkedin]
 
 <br />
+
 ### Thanks for visiting my profile
 ![Visitor Count](https://profile-counter.glitch.me/M-Hammad-Ali/count.svg)
+
 ### ⭐️ From [Hammad Ali](https://github.com/M-Hammad-Ali) ### 
 
 ---
