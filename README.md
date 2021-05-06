@@ -1,4 +1,4 @@
-# Hi there, I'm Hammad Ali - aka [Maaddii][website] <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
+# Hi there, I'm Hammad Ali <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
@@ -62,7 +62,7 @@
 
 ---
 
-### ⭐️ From [Maaddii](https://github.com/M-Hammad-Ali) ### 
+### ⭐️ From [Hammad Ali](https://github.com/M-Hammad-Ali) ### 
 
 ---
 
@@ -72,4 +72,4 @@
 
 
 ----
-Credit: [Hammad Ali](https://github.com/M-Hammad-Ali)
+
