@@ -1,4 +1,5 @@
-# Hi there, I'm Hammad Ali <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
+# Hi there, I'm Hammad Ali <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" /> 
+![Visitor Count](https://profile-counter.glitch.me/M-Hammad-Ali/count.svg)
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
@@ -9,7 +10,6 @@
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 - ⚡ Fun fact: I love to play badminton and snooker 🎱.
   
-![Visitor Count](https://profile-counter.glitch.me/M-Hammad-Ali/count.svg)
 
 ---
 
