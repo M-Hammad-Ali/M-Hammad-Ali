@@ -8,11 +8,48 @@
 - 📚 I’m currently learning everything about Frontend and Backend technologies 😅
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 - ⚡ Fun fact: I love to play badminton and snooker 🎱.
-
----
-
+  
 ![Visitor Count](https://profile-counter.glitch.me/M-Hammad-Ali/count.svg)
 
+---
+```text
+🌞 Morning    87 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.87% 
+🌆 Daytime    289 commits    ██████░░░░░░░░░░░░░░░░░░░   26.15% 
+🌃 Evening    472 commits    ██████████░░░░░░░░░░░░░░░   42.71% 
+🌙 Night      257 commits    █████░░░░░░░░░░░░░░░░░░░░   23.26%
+
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday       191 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.29% 
+Tuesday      126 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   11.4% 
+Wednesday    135 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.22% 
+Thursday     122 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   11.04% 
+Friday       131 commits    ███░░░░░░░░░░░░░░░░░░░░░░   11.86% 
+Saturday     169 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.29% 
+Sunday       231 commits    █████░░░░░░░░░░░░░░░░░░░░   20.9%
+
+```
+---
+
+<br/>
+
+  <h2 align="center"> Github Statistics 📈 </h2>
+  
+  <div align="center"> 
+     <a href="https://github.com/M-Hammad-Ali">
+      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=M-Hammad-Ali&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40" />
+    </a>
+    <a href="https://github.com/M-Hammad-Ali">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-Hammad-Ali&theme=react&line_height=40&hide=css"/>
+    </a>
+</div
+
+<br/>
+
+---
+---
 ### Contact with me 📝
 
 [<img align="left" alt="bilgehangecici.site" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/2996/2996826.svg" />][website]
@@ -42,23 +79,6 @@
 [<img align="left" alt="bilgehangecici.site" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" />][docker]
 [<img align="left" alt="bilgehangecici.site" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />][docker]
 [<img align="left" alt="bilgehangecici.site" height="30px" src="https://camo.githubusercontent.com/d668980b08638fab316ddbf2b04776612093603fa2eac870f439818dad8c097e/68747470733a2f2f63646e2e69636f6e73636f75742e636f6d2f69636f6e2f667265652f706e672d3531322f6d6f6e676f64622d332d313137353133382e706e67" />][docker]
-
-<br/>
-
----
-
-<br/>
-
-  <h2 align="center"> Github Statistics 📈 </h2>
-  
-  <div align="center"> 
-     <a href="https://github.com/M-Hammad-Ali">
-      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=M-Hammad-Ali&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40" />
-    </a>
-    <a href="https://github.com/M-Hammad-Ali">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-Hammad-Ali&theme=react&line_height=40&hide=css"/>
-    </a>
-</div
 
 <br/>
 
