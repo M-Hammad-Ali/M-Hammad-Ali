@@ -1,4 +1,4 @@
-# Hi there, I'm Hammad Ali <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" /> <img width="100px" src="https://profile-counter.glitch.me/M-Hammad-Ali/count.svg" /> 
+# Hi there, I'm Hammad Ali <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" /> <img width="300px" height="70" src="https://profile-counter.glitch.me/M-Hammad-Ali/count.svg" /> 
 ![Visitor Count](https://profile-counter.glitch.me/M-Hammad-Ali/count.svg)
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
