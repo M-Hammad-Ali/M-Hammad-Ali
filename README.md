@@ -37,17 +37,6 @@
 
 ---
 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    87 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.87% 
-🌆 Daytime    289 commits    ██████░░░░░░░░░░░░░░░░░░░   26.15% 
-🌃 Evening    472 commits    ██████████░░░░░░░░░░░░░░░   42.71% 
-🌙 Night      257 commits    █████░░░░░░░░░░░░░░░░░░░░   23.26%
-
-```
----
-
 <br/>
 
   <h2 align="center"> Github Statistics 📈 </h2>
@@ -70,8 +59,6 @@
 [<img align="left" alt="bilgehangecici | LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>][linkedin]
 
 <br />
-
----
 ### Thanks for visiting my profile
 ![Visitor Count](https://profile-counter.glitch.me/M-Hammad-Ali/count.svg)
 ### ⭐️ From [Hammad Ali](https://github.com/M-Hammad-Ali) ### 
