@@ -72,4 +72,4 @@
 
 
 ----
-Credit: [Bgstatic](https://github.com/M-Hammad-Ali)
+Credit: [Hammad Ali](https://github.com/M-Hammad-Ali)
